@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>188000F5-0A6F-43A8-85DF-FA15846A3F75</string>
+	<key>IDESourceControlProjectName</key>
+	<string>FirstDelegateProtocolApp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>AC8035A8-50C5-4249-B9EB-A23BAF02D74E</key>
+		<string>https://github.com/batoan1221/DelegateProtocolDemoApp.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>FirstDelegateProtocolApp.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>AC8035A8-50C5-4249-B9EB-A23BAF02D74E</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/batoan1221/DelegateProtocolDemoApp.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>AC8035A8-50C5-4249-B9EB-A23BAF02D74E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>AC8035A8-50C5-4249-B9EB-A23BAF02D74E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>FirstDelegateProtocolApp</string>
+		</dict>
+	</array>
+</dict>
+</plist>

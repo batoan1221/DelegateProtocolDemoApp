@@ -18,6 +18,5 @@
 
 @property (nonatomic, assign) id <ProtocolCell> delegate;
 @property (nonatomic, weak) IBOutlet UILabel *categoryLabel;
-@property (nonatomic, assign) int row;
 
 @end

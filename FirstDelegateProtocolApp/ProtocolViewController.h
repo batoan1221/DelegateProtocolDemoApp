@@ -10,4 +10,6 @@
 
 @interface ProtocolViewController : UIViewController
 
+@property (nonatomic, assign) int categoryId;
+
 @end

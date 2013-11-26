@@ -1,18 +1,19 @@
 //
-//  ProtocolCell.m
+//  DetailCell.m
 //  FirstDelegateProtocolApp
 //
-//  Created by admin on 11/25/13.
+//  Created by admin on 11/26/13.
 //  Copyright (c) 2013 admin. All rights reserved.
 //
 
-#import "ProtocolCell.h"
+#import "DetailCell.h"
 
-@implementation ProtocolCell
 
-- (IBAction)detailBtnPressed:(id)sender {
-    if ([self.delegate respondsToSelector:@selector(detailButtonPressed:button:)]) {
-        [self.delegate detailButtonPressed:self button:sender];
+@implementation DetailCell
+
+- (void)tap:(UITapGestureRecognizer *)gesture{
+    if (gesture.state == UIGestureRecognizerStateBegan) {
+        
     }
 }
 
