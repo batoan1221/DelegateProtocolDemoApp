@@ -5,19 +5,31 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
+<<<<<<< HEAD
 	<string>188000F5-0A6F-43A8-85DF-FA15846A3F75</string>
+=======
+	<string>946D3281-A443-4DFA-B6A4-39939078C776</string>
+>>>>>>> 20c3a8b8f87766db1167daa6453a4b8d90e4745e
 	<key>IDESourceControlProjectName</key>
 	<string>FirstDelegateProtocolApp</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
+<<<<<<< HEAD
 		<key>AC8035A8-50C5-4249-B9EB-A23BAF02D74E</key>
+=======
+		<key>CBF69985-E436-46B5-9484-DA2F79BCAEFE</key>
+>>>>>>> 20c3a8b8f87766db1167daa6453a4b8d90e4745e
 		<string>https://github.com/batoan1221/DelegateProtocolDemoApp.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>FirstDelegateProtocolApp.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
+<<<<<<< HEAD
 		<key>AC8035A8-50C5-4249-B9EB-A23BAF02D74E</key>
+=======
+		<key>CBF69985-E436-46B5-9484-DA2F79BCAEFE</key>
+>>>>>>> 20c3a8b8f87766db1167daa6453a4b8d90e4745e
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
@@ -25,16 +37,26 @@
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
+<<<<<<< HEAD
 	<string>AC8035A8-50C5-4249-B9EB-A23BAF02D74E</string>
+=======
+	<string>CBF69985-E436-46B5-9484-DA2F79BCAEFE</string>
+>>>>>>> 20c3a8b8f87766db1167daa6453a4b8d90e4745e
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
+<<<<<<< HEAD
 			<string>AC8035A8-50C5-4249-B9EB-A23BAF02D74E</string>
 			<key>IDESourceControlWCCName</key>
 			<string>FirstDelegateProtocolApp</string>
+=======
+			<string>CBF69985-E436-46B5-9484-DA2F79BCAEFE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DelegateProtocolDemoApp</string>
+>>>>>>> 20c3a8b8f87766db1167daa6453a4b8d90e4745e
 		</dict>
 	</array>
 </dict>
