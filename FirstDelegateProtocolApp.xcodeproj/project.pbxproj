@@ -24,6 +24,10 @@
 		840EAB501843A255009FBAE5 /* ProtocolCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 840EAB4F1843A255009FBAE5 /* ProtocolCell.m */; };
 		840EAB541843A294009FBAE5 /* ProtocolCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 840EAB531843A294009FBAE5 /* ProtocolCell.xib */; };
 		840EAB5D1843C09C009FBAE5 /* back button3.png in Resources */ = {isa = PBXBuildFile; fileRef = 840EAB5B1843C09C009FBAE5 /* back button3.png */; };
+		84F9DB7A1844F467007CDD45 /* DetailCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 84F9DB791844F467007CDD45 /* DetailCell.m */; };
+		84F9DB7E1844F48D007CDD45 /* DetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 84F9DB7C1844F48D007CDD45 /* DetailViewController.m */; };
+		84F9DB7F1844F48D007CDD45 /* DetailViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 84F9DB7D1844F48D007CDD45 /* DetailViewController.xib */; };
+		84F9DB811844F4A3007CDD45 /* DetailCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 84F9DB801844F4A2007CDD45 /* DetailCell.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -60,6 +64,12 @@
 		840EAB4F1843A255009FBAE5 /* ProtocolCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ProtocolCell.m; sourceTree = "<group>"; };
 		840EAB531843A294009FBAE5 /* ProtocolCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ProtocolCell.xib; sourceTree = "<group>"; };
 		840EAB5B1843C09C009FBAE5 /* back button3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "back button3.png"; sourceTree = "<group>"; };
+		84F9DB781844F467007CDD45 /* DetailCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DetailCell.h; sourceTree = "<group>"; };
+		84F9DB791844F467007CDD45 /* DetailCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DetailCell.m; sourceTree = "<group>"; };
+		84F9DB7B1844F48D007CDD45 /* DetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DetailViewController.h; sourceTree = "<group>"; };
+		84F9DB7C1844F48D007CDD45 /* DetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DetailViewController.m; sourceTree = "<group>"; };
+		84F9DB7D1844F48D007CDD45 /* DetailViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = DetailViewController.xib; sourceTree = "<group>"; };
+		84F9DB801844F4A2007CDD45 /* DetailCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = DetailCell.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -124,6 +134,12 @@
 				840EAB491843A19B009FBAE5 /* ProtocolViewController.h */,
 				840EAB4A1843A19B009FBAE5 /* ProtocolViewController.m */,
 				840EAB4B1843A19B009FBAE5 /* ProtocolViewController.xib */,
+				84F9DB7B1844F48D007CDD45 /* DetailViewController.h */,
+				84F9DB7C1844F48D007CDD45 /* DetailViewController.m */,
+				84F9DB7D1844F48D007CDD45 /* DetailViewController.xib */,
+				84F9DB781844F467007CDD45 /* DetailCell.h */,
+				84F9DB791844F467007CDD45 /* DetailCell.m */,
+				84F9DB801844F4A2007CDD45 /* DetailCell.xib */,
 				840EAB4E1843A255009FBAE5 /* ProtocolCell.h */,
 				840EAB4F1843A255009FBAE5 /* ProtocolCell.m */,
 				840EAB531843A294009FBAE5 /* ProtocolCell.xib */,
@@ -240,8 +256,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				840EAB5D1843C09C009FBAE5 /* back button3.png in Resources */,
+				84F9DB7F1844F48D007CDD45 /* DetailViewController.xib in Resources */,
 				840EAB251843A171009FBAE5 /* InfoPlist.strings in Resources */,
 				840EAB4D1843A19B009FBAE5 /* ProtocolViewController.xib in Resources */,
+				84F9DB811844F4A3007CDD45 /* DetailCell.xib in Resources */,
 				840EAB2D1843A171009FBAE5 /* Images.xcassets in Resources */,
 				840EAB541843A294009FBAE5 /* ProtocolCell.xib in Resources */,
 			);
@@ -263,9 +281,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				840EAB4C1843A19B009FBAE5 /* ProtocolViewController.m in Sources */,
+				84F9DB7A1844F467007CDD45 /* DetailCell.m in Sources */,
 				840EAB2B1843A171009FBAE5 /* ProtocolAppDelegate.m in Sources */,
 				840EAB271843A171009FBAE5 /* main.m in Sources */,
 				840EAB501843A255009FBAE5 /* ProtocolCell.m in Sources */,
+				84F9DB7E1844F48D007CDD45 /* DetailViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -466,6 +486,7 @@
 				840EAB451843A171009FBAE5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		840EAB461843A171009FBAE5 /* Build configuration list for PBXNativeTarget "FirstDelegateProtocolAppTests" */ = {
 			isa = XCConfigurationList;
@@ -474,6 +495,7 @@
 				840EAB481843A171009FBAE5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
